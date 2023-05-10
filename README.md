@@ -1,6 +1,5 @@
 # Git and GitHub Workshop
 
-
 ## git
 
 git is a version control software.
